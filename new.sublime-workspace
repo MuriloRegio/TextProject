@@ -1,0 +1,1160 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yield",
+				"yieldCandidates\t(candidates.py)"
+			],
+			[
+				"tex",
+				"text_candidates\tabc"
+			],
+			[
+				"bi",
+				"binarize\tabc"
+			],
+			[
+				"bit",
+				"bitwise_and\tabc"
+			],
+			[
+				"whi",
+				"whitelist\tabc"
+			],
+			[
+				"out",
+				"outname\tabc"
+			],
+			[
+				"log",
+				"logfile\tabc"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"thre",
+				"thresh"
+			],
+			[
+				"fr",
+				"fromarray\t(myProcess.py)"
+			],
+			[
+				"dra",
+				"draw2"
+			],
+			[
+				"y",
+				"ymax"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"TH",
+				"THRESH_OTSU\t(myProcess.py)"
+			],
+			[
+				"T",
+				"THRESH_BINARY\t(myProcess.py)"
+			],
+			[
+				"thres",
+				"threshold\t(exec.py)"
+			],
+			[
+				"Image",
+				"Image.fromarray\t(myProcess.py)"
+			],
+			[
+				"mas",
+				"maskfy"
+			],
+			[
+				"get",
+				"getICDAR15"
+			],
+			[
+				"lis",
+				"listdir\t(exec.py)"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"n",
+				"n_samples"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"impl",
+				"implementation"
+			],
+			[
+				"mode",
+				"model_path"
+			],
+			[
+				"gts",
+				"gts_path"
+			],
+			[
+				"for",
+				"format_home"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"stat",
+				"status_list"
+			],
+			[
+				"pre",
+				"predictor"
+			],
+			[
+				"PRE",
+				"predictors"
+			],
+			[
+				"EAST",
+				"EAST_PROCESSOR"
+			],
+			[
+				"fil",
+				"filelist"
+			],
+			[
+				"imp",
+				"imp_path"
+			],
+			[
+				"che",
+				"checkpoint_path"
+			],
+			[
+				"pro",
+				"proccess\t(eval.py)"
+			],
+			[
+				"with",
+				"with_image"
+			],
+			[
+				"outpu",
+				"output_txt_dir"
+			],
+			[
+				"tm",
+				"tmp_buffer"
+			],
+			[
+				"da",
+				"data_dict"
+			],
+			[
+				"TAB",
+				"TABLES"
+			],
+			[
+				"tab",
+				"tablespath\t(mk_vis.py)"
+			],
+			[
+				"min",
+				"minv"
+			],
+			[
+				"vet",
+				"vet2"
+			],
+			[
+				"vt",
+				"vetNew"
+			],
+			[
+				"my",
+				"myInfo"
+			],
+			[
+				"int",
+				"interface"
+			],
+			[
+				"__",
+				"__name__\t(sender.py)"
+			],
+			[
+				"v",
+				"vList"
+			],
+			[
+				"the",
+				"threads"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"nt",
+				"n_its"
+			],
+			[
+				"run",
+				"runMultiple"
+			],
+			[
+				"th",
+				"threads"
+			],
+			[
+				"hea",
+				"hthreads"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"args",
+				"argparse"
+			],
+			[
+				"col",
+				"colorscaler"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"drawB",
+				"drawBnL"
+			],
+			[
+				"N",
+				"N_THREADS"
+			],
+			[
+				"print",
+				"printgrid"
+			],
+			[
+				"omp",
+				"omp_set_num_threads"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"k",
+				"k_threads"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"max",
+				"max_t"
+			],
+			[
+				"end",
+				"endrow"
+			],
+			[
+				"set",
+				"set_index\t(merge.py)"
+			],
+			[
+				"plo",
+				"plotly"
+			],
+			[
+				"dr",
+				"drawBnL"
+			],
+			[
+				"df",
+				"df_1"
+			],
+			[
+				"data",
+				"datacols"
+			],
+			[
+				"m",
+				"mround"
+			],
+			[
+				"di",
+				"dictMap"
+			],
+			[
+				"has",
+				"hasSubClasses"
+			],
+			[
+				"Ima",
+				"Image.fromarray"
+			],
+			[
+				"from",
+				"fromarray"
+			],
+			[
+				"Imag",
+				"Image.fromarray\t(ot.py)"
+			],
+			[
+				"bin",
+				"bin_img"
+			],
+			[
+				"gray",
+				"gray_img"
+			],
+			[
+				"co",
+				"contour\t(candidates.py)"
+			],
+			[
+				"cv",
+				"cvtColor\t(divide.py)"
+			],
+			[
+				"sc",
+				"scaler"
+			],
+			[
+				"read",
+				"read_gt\t(setup.py)"
+			],
+			[
+				"sav",
+				"save_ims"
+			],
+			[
+				"COLOR",
+				"COLOR_RGB2GRAY\t(divide.py)"
+			],
+			[
+				"Co",
+				"COCO_manager"
+			],
+			[
+				"COL",
+				"COLOR_RGB2GRAY"
+			],
+			[
+				"to",
+				"toFeature"
+			],
+			[
+				"pick",
+				"pickle\t(edit.py)"
+			],
+			[
+				"loa",
+				"load_weights"
+			],
+			[
+				"tx",
+				"txt_classifier"
+			],
+			[
+				"onl",
+				"only_text"
+			],
+			[
+				"only",
+				"only_text\t(divide.py)"
+			],
+			[
+				"bo",
+				"boundfy"
+			],
+			[
+				"mk",
+				"mkDescriptor"
+			],
+			[
+				"COLO",
+				"COLOR_RGB2GRAY\t(divide.py)"
+			],
+			[
+				"cv2",
+				"cv2.cvtColor"
+			],
+			[
+				"vi",
+				"visualize_text_only\t(candidates.py)"
+			],
+			[
+				"draw",
+				"drawBB\t(candidates.py)"
+			],
+			[
+				"ext",
+				"extract_candidates"
+			],
+			[
+				"ex",
+				"extract_candidates"
+			],
+			[
+				"txt",
+				"txt_classifier((64,64,3\t(divide.py)"
+			],
+			[
+				"te",
+				"text_candidates"
+			],
+			[
+				"val",
+				"val_split\t(only_text.py)"
+			],
+			[
+				"train_",
+				"train_test_split"
+			],
+			[
+				"con",
+				"convexHull"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"bina",
+				"binarization\t(divide.py)"
+			],
+			[
+				"ret",
+				"return_mask\t(divide.py)"
+			],
+			[
+				"max_",
+				"max_divisions"
+			],
+			[
+				"cl",
+				"classify"
+			],
+			[
+				"load",
+				"load_weights\t(only_text.py)"
+			],
+			[
+				"binarize",
+				"binarize_image"
+			],
+			[
+				"img",
+				"img_back"
+			],
+			[
+				"as",
+				"asarray"
+			],
+			[
+				"fro",
+				"fromarray\t(divide.py)"
+			],
+			[
+				"sub",
+				"sub_im"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"pr",
+				"preproccess"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"fun",
+				"functions"
+			],
+			[
+				"viu",
+				"visualize_method\t(test.py)"
+			],
+			[
+				"text",
+				"text_candidates\t(test.py)"
+			],
+			[
+				"return",
+				"return_mask"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exec.py",
+			"settings":
+			{
+				"buffer_size": 2754,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "joiner.py",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "IT_KINDA_WORKS_READER.py",
+			"settings":
+			{
+				"buffer_size": 2817,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/candidates.py",
+			"settings":
+			{
+				"buffer_size": 2649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/davint-1/Desktop/NEW"
+	],
+	"file_history":
+	[
+		"/home/davint-1/Dnc_Unb.c",
+		"/home/davint-1/Desktop/NEW/EAST_PROCESSOR.py",
+		"/home/davint-1/Desktop/NEW/utils/candidates.py",
+		"/home/davint-1/Desktop/NEW/reader.py",
+		"/home/davint-1/Desktop/NEW/IT_KINDA_WORKS_READER.py",
+		"/home/davint-1/Downloads/tredes/server.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/candidates.py",
+		"/home/davint-1/Downloads/server.py",
+		"/home/davint-1/Desktop/NEW/execution_parameters.py",
+		"/home/davint-1/Desktop/NEW/log.dat",
+		"/home/davint-1/Desktop/NEW/joiner.py",
+		"/home/davint-1/Desktop/NEW/FOTS_PROCESSOR.py",
+		"/home/davint-1/PMA/getInfo.py",
+		"/home/davint-1/Desktop/pp.c",
+		"/home/davint-1/Desktop/TCompiladores/TS_entry.java",
+		"/home/davint-1/Desktop/TCompiladores/TabSimb.java",
+		"/home/davint-1/Desktop/TCompiladores/ClasseID.java",
+		"/home/davint-1/Desktop/TCompiladores/samples/ts2.cmm",
+		"/home/davint-1/Desktop/TCompiladores/exemploSem.flex",
+		"/home/davint-1/Desktop/TCompiladores/corretoFuncao.txt",
+		"/home/davint-1/Desktop/TCompiladores/exemploSem.y",
+		"/home/davint-1/Desktop/TCompiladores/samples/corretoArray.txt",
+		"/home/davint-1/Desktop/TCompiladores/samples/ts1.cmm",
+		"/home/davint-1/Desktop/TCompiladores/correto.txt",
+		"/home/davint-1/Desktop/TCompiladores/exemploSem.",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/WorksResultsAverage.tsv",
+		"/home/davint-1/Desktop/NEW/myProcess.py",
+		"/home/davint-1/Desktop/NEW/exec.py",
+		"/home/davint-1/Desktop/NEW/tmp.py",
+		"/home/davint-1/Desktop/env.py",
+		"/home/davint-1/dump.js",
+		"/home/davint-1/Desktop/NEW/utils/filtering.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/divide.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/edit.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/filtering.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/growth.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/hallo.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/heyo.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/huh.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/only_text.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/utils.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/eval.py",
+		"/home/davint-1/Desktop/NEW/utils/read_gt.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/read_gt.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/mk_vis.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/makeTable.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/tableProcessor.py",
+		"/home/davint-1/Desktop/NEW/EAST/eval.py",
+		"/home/davint-1/Desktop/Murilo/TEXT_DETS/binarization.py",
+		"/home/davint-1/Downloads/process.py",
+		"/home/davint-1/Downloads/N_MACHINES_RESULTS.dat",
+		"/home/davint-1/WordSwarm/1-Preprocessing/Processor.py",
+		"/home/davint-1/WordSwarm/2-WordSwarm/framework/pygame_framework.py",
+		"/home/davint-1/WordSwarm/1-Preprocessing/Scraper_Science.py",
+		"/home/davint-1/mandelbrot3.c",
+		"/home/davint-1/Desktop/NEW/FOTS/eval.py",
+		"/home/davint-1/repos/FOTS/eval.py",
+		"/home/davint-1/repos/exec.py",
+		"/home/davint-1/repos/EAST/eval.py",
+		"/home/davint-1/repos/FOTS/utils/bbox.py",
+		"/home/davint-1/repos/FOTS/model/model.py",
+		"/home/davint-1/repos/OCR_detection_IC15/plox.py",
+		"/home/davint-1/repos/OCR_detection_IC15/eval.py",
+		"/home/davint-1/repos/FOTS/base/base_model.py",
+		"/home/davint-1/Desktop/NEW_RESULTS.dat",
+		"/home/davint-1/repos/FOTS/utils/util.py",
+		"/home/davint-1/repos/FOTS/base/base_trainer.py",
+		"/home/davint-1/repos/OCR_detection_IC15/utils/bbox.py",
+		"/home/davint-1/Desktop/PARALELA/mandelbrot3a.c",
+		"/home/davint-1/Desktop/mandelbrot3a.c",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/WorksEnumeration.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/merge.py",
+		"/home/davint-1/Desktop/edit.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/usagePerYear.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/usagePerYear.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/totalUsage.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/totalUsage.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/totalmethods.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/totalmethods1.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/methodsResults.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/methodsResults.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/fscores.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/fscores.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/Allfscores.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/dump.dat",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/Allfscores.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/DUMPS/DATASET_USAGE.dat",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/DUMPS/METHODS_AVERAGE_FSCORES.dat",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/DUMPS/METHOD_USAGE.dat",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/DUMPS/DATASET_vs_WORK_FSCORE.dat",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/methodsperyear1.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/DUMPS/METHODS_ALL_FSCORES.dat",
+		"/home/davint-1/Desktop/t.tsv",
+		"/home/davint-1/Desktop/tmp.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/outputs.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/merged.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/TABLES/t.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/fscoresperyear.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/totalmethods1.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/merged.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/methodsperyear1.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/total.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/t.tsv",
+		"/home/davint-1/Desktop/T/T1/src/runFile.py",
+		"/home/davint-1/Desktop/T/CentralDoAluno.yml",
+		"/home/davint-1/Desktop/T/T1/run.py",
+		"/home/davint-1/Desktop/T/T1/src/QueueManager.py",
+		"/home/davint-1/Desktop/T/T1/results.dat",
+		"/home/davint-1/Desktop/tmp.pu",
+		"/home/davint-1/Desktop/hamEncoder.py",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/dumpA.dat",
+		"/home/davint-1/Desktop/ferreto/pinger.py",
+		"/home/davint-1/Desktop/ferreto/ATACKER.py",
+		"/home/davint-1/Desktop/ferreto/sender.py",
+		"/home/davint-1/Desktop/ferreto/ferreto/sender.py",
+		"/home/davint-1/Desktop/ferreto/ferreto/arprequest.py",
+		"/home/davint-1/Desktop/ferreto/ferreto/sniffer_icmp.py",
+		"/home/davint-1/Desktop/ferreto/ferreto/DETECTOR.py",
+		"/home/davint-1/Desktop/ferreto/ferreto/pinger.py",
+		"/home/davint-1/Downloads/parallelizationMetricsAnalysis/visualize.py",
+		"/home/davint-1/Downloads/visualize.py",
+		"/home/davint-1/Downloads/README",
+		"/home/davint-1/Downloads/getInfo.py",
+		"/home/davint-1/Downloads/teste.c",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/usageperyear.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/tmp.tsv",
+		"/home/davint-1/Desktop/Murilo/Python Scripts/tmp.dat",
+		"/home/davint-1/results.dat"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"prin",
+			"all",
+			"sub_im",
+			"tmp,tmp,mask=mask",
+			"    ",
+			"Tp_ERRO",
+			"pesquisa",
+			"yyerror",
+			"tsAux",
+			"attributes",
+			"yyerr",
+			"currEscopo",
+			"DeclStruct",
+			"TArray",
+			"dList ",
+			"decl ",
+			"decl",
+			"main",
+			"STRUCT",
+			"erro",
+			"Tp_INT",
+			"pesquisa",
+			"\t ",
+			"ClasseID",
+			"VarGlobal",
+			"+",
+			"AND",
+			"STRUCT",
+			"  ",
+			"controle abaixo",
+			"Na sequência de controle abaixo",
+			"erode",
+			"contour",
+			"    ",
+			".",
+			"(",
+			".",
+			"methods",
+			"CC;",
+			"CC",
+			"    ",
+			"CANNT",
+			"CANNY",
+			"y",
+			"{",
+			"    ",
+			"...",
+			"Algor",
+			"{}",
+			"tmp",
+			"fig",
+			"dataset",
+			"  ",
+			"hol",
+			"MTL",
+			"py",
+			"    ",
+			"MSER",
+			"SIFT",
+			"MLP",
+			"COLOR",
+			"GRADI",
+			"LOCAL",
+			"BAYES",
+			"WAVELET",
+			"CNN",
+			"edge",
+			"HIERARCHICAL-CLUSTERING",
+			"CNN",
+			"LINKAGE",
+			"ADABOOST",
+			"GRAPH",
+			"MEANS",
+			"TVA",
+			"SVM",
+			"OCR",
+			"MSER",
+			"CANNY",
+			"CC",
+			"h",
+			"\\hline",
+			"rgb_im",
+			"cv",
+			"split",
+			"bnz",
+			")",
+			"tesse",
+			"tess",
+			"memory",
+			"treshold",
+			"75",
+			"(obj1[0]-obj2[0])**2",
+			"    ",
+			")",
+			"'",
+			"\n\t",
+			"    ",
+			"name",
+			"pending_line",
+			"dnet",
+			"sys",
+			"row",
+			"put",
+			"\"-\" in",
+			"'-' in",
+			"SVT",
+			"print",
+			"]]\n",
+			"clearKabrau",
+			"\n\t",
+			"list_first_entry_or_null",
+			"800",
+			"VGG_16",
+			"interior_door_.jp",
+			"interior_door.",
+			"interior_door",
+			"scandinavian",
+			"imag",
+			"pci",
+			"Dataset/",
+			"img_dataset",
+			"0001.",
+			"traditional-family-room.",
+			"o.jpg",
+			"home-design",
+			"contemporary-living-room",
+			"503064766_880d4a6ec6",
+			"08.jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"im",
+			"\t",
+			"CANNY",
+			"\t",
+			"t",
+			"im",
+			"cv2",
+			"threshold",
+			"\t",
+			"\"",
+			"\t",
+			"self.name",
+			"self.pending_line",
+			"append",
+			"normalizeDatasets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/davint-1/Desktop/NEW"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exec.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "joiner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1417,
+								1417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "IT_KINDA_WORKS_READER.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "utils/candidates.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1543,
+								1543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 111.0,
+						"translation.y": 928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
